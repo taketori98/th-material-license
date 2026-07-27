@@ -3,6 +3,9 @@ remote_theme: just-the-docs/just-the-docs@v0.12.0
 title: 東方アレンジ素材保管庫
 description: taketori98が配布する素材の利用条件
 
+url: "https://taketori98.github.io"
+baseurl: "/th-material-license"
+
 lang: ja-JP
 search_enabled: true
 heading_anchors: true
