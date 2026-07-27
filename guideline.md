@@ -1,5 +1,6 @@
 ---
 layout: default
+title: 素材利用ガイドライン
 nav_order: 1
 ---
 
