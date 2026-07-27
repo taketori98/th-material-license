@@ -1,0 +1,15 @@
+guideline:
+  text: 素材利用ガイドライン
+  path: /guideline/
+
+faq:
+  text: FAQ
+  path: /faq/
+
+changelog:
+  text: 変更履歴
+  path: /changelog/
+
+old-commons:
+  text: コモンズ版旧ガイドライン
+  path: /archive/old-commons/

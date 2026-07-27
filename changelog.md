@@ -11,6 +11,8 @@ last_modified_date: 2026-07-27
 
 ## {{ update.date }}
 
-{{ update.content | markdownify }}
+<div class="changelog-item">
+  {% include render_update_content.html text=update.content mode="html" %}
+</div>
 
 {% endfor %}

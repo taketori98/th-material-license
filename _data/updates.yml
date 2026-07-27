@@ -2,8 +2,6 @@
   title: 本サイトを公開しました
   content: |
     - 本サイトを作成しました。
-    - [利用規約](./guideline)を制定しました(v1.0)。
-    - [FAQ](./faq)・[変更履歴](./changelog)を公開しました。
-    - ニコニ・コモンズに記載していた古い利用条件を
-      [コモンズ版旧ガイドライン](./archive/old-commons)
-      にて公開しました。
+    - [[link:guideline]]を制定しました(v1.0)。
+    - [[link:faq]]・[[link:changelog]]を公開しました。
+    - ニコニ・コモンズに記載していた古い利用条件を[[link:old-commons]]にて公開しました。

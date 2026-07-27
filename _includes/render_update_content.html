@@ -1,0 +1,20 @@
+{%- assign out = include.text -%}
+{%- assign mode = include.mode | default: "html" -%}
+
+{%- for item in site.data.links -%}
+  {%- assign key = item[0] -%}
+  {%- assign data = item[1] -%}
+
+  {%- assign token = "[[link:" | append: key | append: "]]" -%}
+
+  {%- if mode == "rss" -%}
+    {%- assign href = data.path | absolute_url -%}
+  {%- else -%}
+    {%- assign href = data.path | relative_url -%}
+  {%- endif -%}
+
+  {%- capture replacement -%}<a href="{{ href }}">{{ data.text }}</a>{%- endcapture -%}
+  {%- assign out = out | replace: token, replacement -%}
+{%- endfor -%}
+
+{{ out | markdownify }}
