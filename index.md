@@ -1,6 +1,7 @@
 ---
 layout: default
 nav_exclude: true
+last_modified_date: 2026-07-27
 ---
 
 # 東方アレンジ素材保管庫

@@ -2,6 +2,7 @@
 layout: default
 title: 素材利用ガイドライン
 nav_order: 1
+last_modified_date: 2026-07-27
 ---
 
 <!-- prettier-ignore-start -->
