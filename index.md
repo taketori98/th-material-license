@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 1
+nav_exclude: true
 ---
 
 # 東方アレンジ素材保管庫
