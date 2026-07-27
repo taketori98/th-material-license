@@ -1,0 +1,11 @@
+theme: jekyll-theme-cayman
+
+title: 東方アレンジ素材保管庫
+description: taketori98が配布する素材の利用条件
+
+lang: ja-JP
+
+show_downloads: false
+
+github:
+  is_project_page: false
