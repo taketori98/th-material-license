@@ -1,11 +1,10 @@
-theme: jekyll-theme-minimal
+remote_theme: just-the-docs/just-the-docs@v0.12.0
 
 title: 東方アレンジ素材保管庫
 description: taketori98が配布する素材の利用条件
 
 lang: ja-JP
 
-show_downloads: false
+search_enabled: true
 
-github:
-  is_project_page: false
+heading_anchors: true
