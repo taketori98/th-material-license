@@ -1,15 +1,15 @@
 guideline:
   text: 素材利用ガイドライン
-  path: /guideline/
+  path: /guideline.html
 
 faq:
   text: FAQ
-  path: /faq/
+  path: /faq.html
 
 changelog:
   text: 変更履歴
-  path: /changelog/
+  path: /changelog.html
 
 old-commons:
   text: コモンズ版旧ガイドライン
-  path: /archive/old-commons/
+  path: /archive/old-commons.html
