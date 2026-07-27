@@ -16,4 +16,11 @@
 
 ## 配布素材
 
-素材の配布場所については各配布ページをご確認ください。
+- [ニコニ・コモンズ](https://commons.nicovideo.jp/users/88127483)
+
+## 連絡先
+
+素材利用に関するお問い合わせは以下までお願いします。
+
+- X（旧Twitter）: [@taketori_98](https://twitter.com/taketori_98)
+- メール: taketori9898@gmail.com
