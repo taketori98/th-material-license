@@ -3,8 +3,10 @@ layout: default
 nav_order: 1
 ---
 
+<!-- prettier-ignore-start -->
 # 素材利用ガイドライン
 {: .no_toc }
+<!-- prettier-ignore-end -->
 
 更新日時: 2026/7/27
 
@@ -12,8 +14,11 @@ nav_order: 1
 
 不明な点については[FAQ](./faq)も併せてご確認ください。
 
+<!-- prettier-ignore-start -->
+
 - TOC
 {:toc}
+<!-- prettier-ignore-end -->
 
 ## 基本
 
