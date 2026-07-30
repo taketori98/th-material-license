@@ -1,7 +1,7 @@
 remote_theme: just-the-docs/just-the-docs@v0.12.0
 
-title: 東方アレンジ素材保管庫
-description: taketori98が配布する素材の利用条件
+title: 東方アレンジの隠し箱
+description: taketori98が配布する東方アレンジ素材についての情報をまとめたサイトです。
 
 url: "https://taketori98.github.io"
 baseurl: "/th-materials"
@@ -13,4 +13,4 @@ nav_enabled: true
 last_edit_timestamp: true
 last_edit_time_format: "%Y-%m-%d"
 back_to_top: true
-back_to_top_text: "トップに戻る"
+back_to_top_text: "ページトップに戻る"

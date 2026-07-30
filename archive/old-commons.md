@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: 変更履歴
+parent: 更新履歴
 nav_order: 1
 ---
 

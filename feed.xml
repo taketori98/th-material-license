@@ -13,7 +13,7 @@ layout: null
   <description>
   {{ site.description | xml_escape }}
   </description>
-  
+
   <link>{{ site.url }}{{ site.baseurl }}/</link>
 
   <language>{{ site.lang }}</language>
@@ -25,7 +25,7 @@ layout: null
 
   {% for update in site.data.updates %}
   <item>
-    <title>変更履歴: {{ update.date }}</title>
+    <title>更新履歴: {{ update.date }}</title>
     <description><![CDATA[
       {% include render_update_content.html text=update.content mode="rss" %}
     ]]></description>

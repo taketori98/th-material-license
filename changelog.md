@@ -5,7 +5,7 @@ has_toc: false
 last_modified_date: 2026-07-28
 ---
 
-# 変更履歴
+# 更新履歴
 
 ## RSSについて
 
